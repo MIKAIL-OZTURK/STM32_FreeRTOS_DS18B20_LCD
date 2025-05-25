@@ -1,0 +1,10 @@
+../Core/Src/lcd_i2c.c:12:6:lcd_init	16	static
+../Core/Src/lcd_i2c.c:31:6:lcd_send_cmd	16	static
+../Core/Src/lcd_i2c.c:35:6:lcd_send_data	16	static
+../Core/Src/lcd_i2c.c:39:6:lcd_send_string	16	static
+../Core/Src/lcd_i2c.c:45:6:lcd_clear	8	static
+../Core/Src/lcd_i2c.c:50:6:lcd_set_cursor	24	static
+../Core/Src/lcd_i2c.c:55:13:lcd_send	24	static
+../Core/Src/lcd_i2c.c:62:13:lcd_write4bits	16	static
+../Core/Src/lcd_i2c.c:67:13:lcd_pulse_enable	16	static
+../Core/Src/lcd_i2c.c:74:13:lcd_write	24	static
