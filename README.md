@@ -24,3 +24,9 @@ Bu proje, FreeRTOS kullanarak DS18B20 sıcaklık sensöründen sıcaklık verisi
 - STM32CubeIDE 1.16.1
 - HAL Driver
 - FreeRTOS Classic API
+
+## Uygulama Videosu
+
+
+https://github.com/user-attachments/assets/2d3de26c-6a10-42e0-81bb-fd6a1733a870
+
